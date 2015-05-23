@@ -1,0 +1,5 @@
+program: "/bin/true"
+args: ""
+timeout: 180
+shortcut: "KEY_LEFTALT KEY_A"
+InputDevice: "/dev/input/event0"
